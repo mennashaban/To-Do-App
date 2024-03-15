@@ -5,6 +5,10 @@ This Flutter To-Do App is a feature-rich task management application built using
 
  ![new task](https://github.com/mennashaban/To-Do-App/assets/113766567/a14b025c-d548-46e5-9216-ada276b2aae3)
 
+ ![done task](https://github.com/mennashaban/To-Do-App/assets/113766567/e507bcff-7453-4275-b7c8-b8ec05ffc007)
+![archived task](https://github.com/mennashaban/To-Do-App/assets/113766567/dc1db00c-fe59-415a-85eb-0acc00fc0f07)
+
+
 [Screen Recording](https://photos.app.goo.gl/F6oCRUkfCrwGisso7)
 
 ## Features
