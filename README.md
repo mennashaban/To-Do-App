@@ -5,7 +5,7 @@
 This Flutter To-Do App is a feature-rich task management application built using the Flutter framework. It leverages the Bloc state management pattern , Sqflite , Reusable components, Form Validationg
  to provide a seamless and intuitive user experience.
 
-![Screen Recording](https://photos.app.goo.gl/F6oCRUkfCrwGisso7)
+[Screen Recording](https://photos.app.goo.gl/F6oCRUkfCrwGisso7)
 
 ## Features
 
